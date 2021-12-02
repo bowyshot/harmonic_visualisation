@@ -1,7 +1,7 @@
 
 ### VARIABLES
-csv_file = "/Volumes/GoogleDrive/My Drive/Piano Trainer/Piano Trainer - HV.csv" ## Location of CSV File
-max_time = 10 ### Maximum Training Time in Seconds
+csv_file = "/Users/Olivia/Downloads/harmonic_visualisation-main/Piano Trainer - HV.csv" ## Enter File Path of CSV File
+max_time = 300 ### Maximum Training Time in Seconds
 
 
 ### CODE
